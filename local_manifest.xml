@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project path="device/blu/p6601" name="blumonks/android_device_blu_p6601" revision="cm-14.1" />
+<project path="kernel/blu/p6601" name="blumonks/android_kernel_mediatek_mt6735" revision="cm-14.1" />
+<project path="vendor/blu/p6601" name="blumonks/android_vendor_blu_p6601" revision="cm-14.1" />
+
+</manifest>
