@@ -1,9 +1,7 @@
 # lineageOS 14.1 for BLU R1 HD
 What works:
-- ???
-
-What doesn't work:
-- ???
+- Boots
+- Everything that is not mentioned in "Issues" (see android_device_blu_p6601)
 
 For all bugs, please open a new issue on github with a logcat and/or dmesg of your issue.
 
