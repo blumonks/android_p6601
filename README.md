@@ -20,7 +20,6 @@ To sync source:
 To build:
 
     . build/envsetup.sh && lunch lineage_p6601-userdebug
-    echo "ro.project=lineageOS" > build.ini # Required to build kernel with Ninja
     mka bacon
 
 Please see the [Lineage Wiki](http://www.lineageosrom.com/2017/01/how-to-build-lineageos-rom-for-any.html) for building instructions.
