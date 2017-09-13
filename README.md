@@ -17,6 +17,7 @@ To sync source:
 
 To build:
 
+    pushd device/blu/p6601 && ./patch.sh && popd
     . build/envsetup.sh && lunch lineage_p6601-userdebug
     mka bacon
 
